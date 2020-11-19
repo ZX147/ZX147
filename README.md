@@ -50,10 +50,9 @@
 
             <font color="yello"><span class="say" ><b>   --来自爱你的张鑫</b></span></font>
         </font>
-        </p>
       </div>
     </div>
-    <div id="clock-box"> <span class="STYLE1"></span><font color="#33CC00">亲爱的柔西，我爱你</font> <span class="STYLE1">已经是……</span>
+    <div id="clock-box"> <span class="STYLE1"></span><font color="#00BFFF">亲爱的柔西，我爱你</font> <span class="STYLE1">已经是……</span>
       <div id="clock"></div>
     </div>
     <canvas id="canvas" width="1100" height="680"></canvas>
